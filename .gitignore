@@ -1,0 +1,14 @@
+.idea
+workspace.xml
+vsc.xml
+misc.xml
+modules.xml
+.pyc
+.cpython-37
+*.pyc
+
+saves/
+
+tsne_2d.png
+
+.~lock.ErrorValues.xlsx#
